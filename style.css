@@ -2,6 +2,9 @@
 
 body {
   text-align: center;
-  font-weight: 100;
   font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1 {
+  font-weight: 100;
 }
